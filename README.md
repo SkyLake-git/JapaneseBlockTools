@@ -1,0 +1,2 @@
+# JapaneseBlockTools
+日本語ブロックのリソースパック生成を補助するツール
