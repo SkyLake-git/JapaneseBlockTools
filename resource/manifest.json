@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Japanese Block",
+        "description": "日本語ブロックを追加します",
+        "version": [
+            1,
+            0,
+            32
+        ],
+        "uuid": "55f8b60d-7dbd-44c1-af34-d19602199353",
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "description": "日本語リソース",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "uuid": "4b5e8fa5-f882-45d8-81b4-06da24f605b8"
+        }
+    ]
+}
